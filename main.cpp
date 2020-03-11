@@ -11,8 +11,7 @@ int main() {
     cin >> num1, num2;
 
     int x, y;
-    
-    int sum = x/y;
+    cout << x << endl;
 
     cin >> x >> y;
     cout << x + y << endl;
