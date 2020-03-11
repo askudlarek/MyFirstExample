@@ -10,9 +10,8 @@ int main() {
     cout << "Hi, please enter two numbers: ";
     cin >> num1, num2;
 
-    int x, y;
-    cout << x << endl;
-
+    int x,y;
+    
     cin >> x >> y;
     cout << x + y << endl;
 
